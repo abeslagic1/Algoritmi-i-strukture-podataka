@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1648539474 source:c:\users\amar\desktop\algoritmi i strukture podataka\pripremna zadaca 6\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<ctime>
+	<string>
+
